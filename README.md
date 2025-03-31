@@ -9,4 +9,4 @@ git clone https://github.com/SirPerpetuum/7_task
 cd 7_task
 
 # Установка зависимостей
-pip install requirements
+pip install -r requirements.txt
