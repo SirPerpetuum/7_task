@@ -18,3 +18,7 @@ pip install -r requirements.txt
 ```bash
 api_key = 'ваш_api_ключ'
 ```
+### Запуск программы
+```bash
+python main.py
+```
