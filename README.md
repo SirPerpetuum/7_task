@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```
 ### API ключ 
 Получить API ключ в личном кабинете на сайте OpenWeatherMap. Вставить ключ в файл weather.py
+```bash
+api_key = 'ваш_api_ключ'
+```
